@@ -14,7 +14,7 @@ The prequel adventure detailing Bilbo Baggins' unexpected quest to reclaim the L
 *The company journeys through the dangerous Mirkwood forest and Lake-town to finally confront the terrifying dragon, Smaug, inside the Lonely Mountain.*
 
 #### 3. The Hobbit: The Battle of the Five Armies
-<img width="1000" height="1480" alt="Hobbit3" src="https://github.com/user-attachments/assets/ffa10c8e-797a-4cc3-9e34-d2d7d52560f3" />
+<img width="1" height="1480" alt="Hobbits" src="https://github.com/user-attachments/assets/6342e05e-e2f9-40ac-b056-9c93d7bbc554" />
 *With the dragon defeated, a massive conflict erupts as Men, Elves, and Dwarves must unite to fight a devastating Orc army.*
 
 -----------------------------------------------------------------------------------------------------------------------------
@@ -23,7 +23,7 @@ The prequel adventure detailing Bilbo Baggins' unexpected quest to reclaim the L
 The legendary, perilous journey of the Fellowship to destroy the One Ring in the fires of Mount Doom and defeat the Dark Lord Sauron.
 
 #### 1. The Lord of the Rings: The Fellowship of the Ring
-<img width="1000" height="1480" alt="LOTR1" src="https://github.com/user-attachments/assets/ee901665-eb9f-4d10-87fd-17673b233b23" />
+<img width="1000" height="1480" alt="LOTR" src="https://github.com/user-attachments/assets/bc8aa277-2eb5-4778-8827-a49ca0adad55" />
 *A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.*
 
 #### 2. The Lord of the Rings: The Two Towers
