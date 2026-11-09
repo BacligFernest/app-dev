@@ -6,7 +6,7 @@ Based on J.R.R. Tolkien's legendary novels, these epic fantasy films explore the
 The prequel adventure detailing Bilbo Baggins' unexpected quest to reclaim the Lonely Mountain from the fearsome dragon Smaug.
 
 #### 1. The Hobbit: An Unexpected Journey
-<img width="1000" height="1480" alt="Hobit1" src="https://github.com/user-attachments/assets/d6315235-411b-4b42-b243-0481a193c06f" />
+<img width="1000" height="1480" alt="Hobbit1" src="https://github.com/user-attachments/assets/ee151d9c-1de5-425b-b3d2-ee8d0058c3fb" />
 *A reluctant Bilbo Baggins is swept into a perilous quest by Gandalf the Grey and thirteen dwarves to reclaim the lost Dwarf Kingdom of Erebor.*
 
 #### 2. The Hobbit: The Desolation of Smaug
